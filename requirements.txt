@@ -1,0 +1,5 @@
+pyshorteners
+flask
+colorama
+requests
+bs4
